@@ -12,7 +12,7 @@
         {
           "name": "Veriground Standalone Programmer",
           "architecture": "avr",
-          "version": "1.0",
+          "version": "1.0.0",
           "category": "Contributed",
           "help": { "online": "http://www.veriground.net/" },
           "url": "https://tragicpancake.github.io/Veriground/StandaloneProgrammer1.0.zip",
