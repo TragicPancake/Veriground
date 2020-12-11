@@ -17,8 +17,8 @@
           "help": { "online": "http://www.veriground.net/" },
           "url": "https://tragicpancake.github.io/Veriground/StandaloneProgrammer1.0.0.zip",
           "archiveFileName": "StandaloneProgrammer1.0.0.zip",
-          "checksum": "SHA-256:24afe3378f533040c0154cfb09f04b81938b23b47a08efca6932fa957974516e",
-          "size": "41847",
+          "checksum": "SHA-256:C76A04AC8B37284C6297B44170457D588f80CB3C7EAD5C2982E23DC912fAF3E4",
+          "size": "42206",
           "boards": [
             {"name": "Standalone Programmer"}
           ],
